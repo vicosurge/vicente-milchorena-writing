@@ -2,6 +2,10 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
 
+# Pin sass-embedded — 1.91+ uses JSON::Fragment, which is missing from
+# the json gem bundled with Ruby 3.1.
+gem "sass-embedded", "~> 1.90.0"
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-sitemap"
