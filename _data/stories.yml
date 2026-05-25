@@ -1,0 +1,62 @@
+# Story entries.
+# Required: title, date (YYYY-MM-DD)
+# Optional: pen_name, publication, publication_url, url, blurb, language, date_display
+# date_display: overrides the formatted date when only the year is known (e.g. "2018")
+
+- title: "Yo(d)"
+  pen_name: "Vico"
+  publication: "Revista Digital El futuro del ayer, hoy"
+  date: 2020-08-01
+  language: "Spanish"
+
+- title: "Instalación 56"
+  pen_name: "Vico"
+  publication: "Revista Digital El futuro del ayer, hoy"
+  date: 2020-01-18
+  language: "Spanish"
+
+- title: "Leona Bardock y el Incidente"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "Teoría Ómicron"
+  date: 2019-10-16
+  language: "Spanish"
+
+- title: "En la boca del León"
+  pen_name: "Vico"
+  publication: "Revista Digital El futuro del ayer, hoy"
+  date: 2019-07-01
+  blurb: "Ficción corta con temática cyberpunk, de un mundo que no está muy lejano ni ajeno a nosotros."
+  language: "Spanish"
+
+- title: "El curso de dos mentes"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "Teoría Ómicron"
+  date: 2019-07-01
+  language: "Spanish"
+
+- title: "Androides y el mundo del futuro"
+  pen_name: "Vico"
+  publication: "Revista Digital El futuro del ayer, hoy"
+  date: 2019-01-15
+  blurb: "Ficción corta con temática cyberpunk, de un mundo que no está muy lejano ni ajeno a nosotros."
+  language: "Spanish"
+
+- title: "Vuelo de Neón"
+  pen_name: "Vico"
+  publication: "Revista Digital El futuro del ayer, hoy"
+  date: 2018-06-30
+  language: "Spanish"
+
+- title: "Rats"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "Fazed (Epigraph Press)"
+  date: 2018-01-01
+  date_display: "2018"
+  language: "English"
+
+- title: "La Paradoja Universal del Pato (The Universal Paradox of the Duck)"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "Bicromato"
+  date: 2012-06-21
+  blurb: "Micro-fiction. Philosophical, humanist and sarcastic."
+  language: "Spanish"

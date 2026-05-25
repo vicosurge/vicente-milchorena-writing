@@ -1,0 +1,15 @@
+title: Digimente — Short Fiction by Vicente Muñoz
+repository: vicosurge/vicente-milchorena-writing
+email: vicente.munoz@milchorena.com
+author: Vicente Manuel Muñoz Milchorena
+description: >-
+  Short fiction by Vicente Manuel Muñoz Milchorena, writing as Digimente
+  and as Vico. A running index of published stories with links where
+  available.
+baseurl: "/"
+url: "https://digimente.milchorena.com"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

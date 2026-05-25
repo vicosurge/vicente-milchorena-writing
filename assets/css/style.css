@@ -1,0 +1,124 @@
+:root {
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --rule: #e3e1dc;
+    --bg: #faf8f4;
+    --accent: #7a3b2e;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 19px;
+    line-height: 1.65;
+}
+
+.site {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 3rem;
+}
+
+h1, h2, h3 {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+}
+
+h1 {
+    font-size: 2.6rem;
+    margin: 0 0 0.25rem;
+}
+
+.tagline {
+    font-style: italic;
+    color: var(--muted);
+    margin-bottom: 2.5rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin: 2.5rem 0 1rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--rule);
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(122, 59, 46, 0.25);
+    transition: border-color 0.15s ease;
+}
+
+a:hover { border-bottom-color: var(--accent); }
+
+.story {
+    margin: 1.5rem 0;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--rule);
+}
+
+.story:last-child { border-bottom: none; }
+
+.story-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem;
+}
+
+.story-title a {
+    color: var(--ink);
+    border-bottom: none;
+}
+
+.story-title a:hover {
+    color: var(--accent);
+}
+
+.story-meta {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 0 0 0.5rem;
+    letter-spacing: 0.01em;
+}
+
+.story-meta .pen {
+    font-style: italic;
+}
+
+.story-meta .sep {
+    margin: 0 0.4rem;
+    opacity: 0.5;
+}
+
+.story-meta .archived {
+    font-style: italic;
+    opacity: 0.75;
+}
+
+.story-blurb {
+    margin: 0.4rem 0 0;
+    color: #2a2a2a;
+}
+
+.site-footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-align: center;
+}
+
+.site-footer a {
+    color: var(--muted);
+    border-bottom-color: rgba(107, 107, 107, 0.3);
+}
