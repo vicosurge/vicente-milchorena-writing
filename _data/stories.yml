@@ -7,24 +7,28 @@
   pen_name: "Vico"
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2020-08-01
+  url: "https://elfuturodelayerhoy.com/cuentos/2025-08-13-yo-d/"
   language: "Spanish"
 
 - title: "Instalación 56"
   pen_name: "Vico"
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2020-01-18
+  url: "https://elfuturodelayerhoy.com/cuentos/2025-08-13-instalacion-56/"
   language: "Spanish"
 
 - title: "Leona Bardock y el Incidente"
   pen_name: "Vicente Manuel Muñoz Milchorena"
   publication: "Teoría Ómicron"
   date: 2019-10-16
+  url: "https://teoriaomicron.com/cronistas-omicron-leona-bradock-and-the-incident/"
   language: "Spanish"
 
 - title: "En la boca del León"
   pen_name: "Vico"
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2019-07-01
+  url: "https://elfuturodelayerhoy.com/cuentos/2025-08-10-boca-leon/"
   blurb: "Ficción corta con temática cyberpunk, de un mundo que no está muy lejano ni ajeno a nosotros."
   language: "Spanish"
 
@@ -32,18 +36,21 @@
   pen_name: "Vicente Manuel Muñoz Milchorena"
   publication: "Teoría Ómicron"
   date: 2019-07-01
+  url: "https://teoriaomicron.com/cronistas-omicron-el-curso-de-dos-mentes/"
   language: "Spanish"
 
 - title: "Androides y el mundo del futuro"
   pen_name: "Vico"
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2019-01-15
+  url: "https://elfuturodelayerhoy.com/cuentos/2025-03-25-androides-y-el-mundo-del-futuro/"
   blurb: "Ficción corta con temática cyberpunk, de un mundo que no está muy lejano ni ajeno a nosotros."
   language: "Spanish"
 
 - title: "Vuelo de Neón"
   pen_name: "Vico"
   publication: "Revista Digital El futuro del ayer, hoy"
+  url: "https://elfuturodelayerhoy.com/cuentos/2024-12-15-vuelo-de-neon/"
   date: 2018-06-30
   language: "Spanish"
 
@@ -59,5 +66,6 @@
   pen_name: "Vicente Manuel Muñoz Milchorena"
   publication: "Bicromato"
   date: 2012-06-21
+  url: "https://bicromatoflyerliterario.blogspot.com/"
   blurb: "Micro-fiction. Philosophical, humanist and sarcastic."
   language: "Spanish"
