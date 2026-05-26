@@ -8,6 +8,7 @@
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2020-08-01
   url: "https://elfuturodelayerhoy.com/cuentos/2025-08-13-yo-d/"
+  blurb: "Camino al trabajo, una mujer batalla con su Walkman descompuesto y con pensamientos sobre el suicidio, la sobrepoblación y un mundo cuya humanidad ya no levanta la mirada de la pantalla."
   language: "Spanish"
 
 - title: "Instalación 56"
@@ -15,6 +16,7 @@
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2020-01-18
   url: "https://elfuturodelayerhoy.com/cuentos/2025-08-13-instalacion-56/"
+  blurb: "Cuando una tormenta eléctrica abre las celdas de la Instalación 56, la operadora Alana Hicks ignora la evacuación, se arma hasta los dientes y desciende sola hacia lo que pugna por escapar."
   language: "Spanish"
 
 - title: "Leona Bardock y el Incidente"
@@ -22,6 +24,7 @@
   publication: "Teoría Ómicron"
   date: 2019-10-16
   url: "https://teoriaomicron.com/cronistas-omicron-leona-bradock-and-the-incident/"
+  blurb: "En una base militar subterránea, una operadora coordina una emergencia en Sendai que escala hacia la decisión más amarga: autorizar un ataque nuclear para no perder a los suyos."
   language: "Spanish"
 
 - title: "En la boca del León"
@@ -29,7 +32,7 @@
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2019-07-01
   url: "https://elfuturodelayerhoy.com/cuentos/2025-08-10-boca-leon/"
-  blurb: "Ficción corta con temática cyberpunk, de un mundo que no está muy lejano ni ajeno a nosotros."
+  blurb: "Alana Hicks despierta entre alucinaciones a un apartamento corporativo donde su sueño, su cuerpo y su lealtad pertenecen a los amos y señores que la rentan."
   language: "Spanish"
 
 - title: "El curso de dos mentes"
@@ -37,6 +40,7 @@
   publication: "Teoría Ómicron"
   date: 2019-07-01
   url: "https://teoriaomicron.com/cronistas-omicron-el-curso-de-dos-mentes/"
+  blurb: "Una mujer con esquizofrenia, empleada de una corporación militar, lucha por sostener la cordura y sus obligaciones mientras las alucinaciones se cuelan por las grietas de su día a día."
   language: "Spanish"
 
 - title: "Androides y el mundo del futuro"
@@ -44,7 +48,7 @@
   publication: "Revista Digital El futuro del ayer, hoy"
   date: 2019-01-15
   url: "https://elfuturodelayerhoy.com/cuentos/2025-03-25-androides-y-el-mundo-del-futuro/"
-  blurb: "Ficción corta con temática cyberpunk, de un mundo que no está muy lejano ni ajeno a nosotros."
+  blurb: "Michael79, oficial de la fuerza pública corporativa, sale de un turno de 96 horas para encontrarse con colegas en una ciudad donde el tráfico, el lenguaje y hasta la voz pertenecen a la red."
   language: "Spanish"
 
 - title: "Vuelo de Neón"
@@ -52,14 +56,16 @@
   publication: "Revista Digital El futuro del ayer, hoy"
   url: "https://elfuturodelayerhoy.com/cuentos/2024-12-15-vuelo-de-neon/"
   date: 2018-06-30
+  blurb: "Vehículos azul neón surcan tubos de luz mientras dos fugitivos saltan de uno a otro, perseguidos por sirenas y multitudes; cuando se acaban los techos, eligen el último vuelo al abismo."
   language: "Spanish"
 
-- title: "Rats"
+- title: "The Rats"
   pen_name: "Vicente Manuel Muñoz Milchorena"
   publication: "Fazed (Epigraph Press)"
   date: 2018-01-01
   date_display: "2018"
   url: "/assets/pdfs/fazed-issue-one.pdf"
+  blurb: "A medieval patrol walks the night streets of Jerusalem braced for Saladin's army — but the death that finds them is small, swift, and numbered in the hundreds."
   language: "English"
 
 - title: "La Paradoja Universal del Pato (The Universal Paradox of the Duck)"
@@ -67,5 +73,5 @@
   publication: "Bicromato"
   date: 2012-06-21
   url: "https://bicromatoflyerliterario.blogspot.com/"
-  blurb: "Micro-fiction. Philosophical, humanist and sarcastic."
+  blurb: "Microficción. Filosófica, humanista y sarcástica."
   language: "Spanish"
