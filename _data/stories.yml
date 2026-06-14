@@ -3,6 +3,22 @@
 # Optional: pen_name, publication, publication_url, url, blurb, language, date_display
 # date_display: overrides the formatted date when only the year is known (e.g. "2018")
 
+- title: "Evaporation"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "Vine Leaves Press"
+  publication_url: "https://www.vineleavespress.com/"
+  date: 2099-12-31
+  date_display: "Forthcoming"
+  language: "English"
+
+- title: "Jump"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "101 Words"
+  publication_url: "https://101words.org/"
+  date: 2026-07-09
+  date_display: "July 9, 2026"
+  language: "English"
+
 - title: "Yo(d)"
   pen_name: "Vico"
   publication: "Revista Digital El futuro del ayer, hoy"
