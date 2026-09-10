@@ -3,6 +3,16 @@
 # Optional: pen_name, publication, publication_url, url, blurb, language, date_display
 # date_display: overrides the formatted date when only the year is known (e.g. "2018")
 
+# Deported: assigned piece number 2250 in the Vine Leaves Press 2027 Print Anthology
+- title: "Deported"
+  pen_name: "Vicente Manuel Muñoz Milchorena"
+  publication: "Vine Leaves Press — 2027 Print Anthology"
+  publication_url: "https://www.vineleavespress.com/"
+  date: 2027-01-04
+  date_display: "January 4, 2027"
+  language: "English"
+  blurb: "Piece No. 2250. Sent to Vine Leaves Press newsletter subscribers by email, and collected in the 2027 Print Anthology."
+
 # Evaporation: assigned piece number 2114 in the Vine Leaves Press 2026 Print Anthology
 - title: "Evaporation"
   pen_name: "Vicente Manuel Muñoz Milchorena"
